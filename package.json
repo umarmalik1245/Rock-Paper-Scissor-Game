@@ -1,0 +1,19 @@
+{
+  "name": "rps_game",
+  "version": "1.0.0",
+  "description": "Rock paper scissor game",
+  "main": "RPS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Umar Malik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.3.0"
+  }
+}
